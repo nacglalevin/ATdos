@@ -1,4 +1,5 @@
-#            ATdos
+[![](https://img.shields.io/badge/NACG_ATdos-blue)](http://github.com/NACG-Mohr/CJan-Ge)
+<h1 align="center">ATdos</h1>
 
 This a very powerful denial of service (DDoS) program. It is very efficient and portable, it is stable and useful for stress-testing companies, it currently has three attack methods. 1) SYN/ICMP with 6 flags including fin, syn, rst, ack, psh and urg. 2) Slowloris/SLOW uses sock.connect to attack. 3) Request/Requester uses httplib to attack. You either choose one of the three attack methods or you can choose all three!   
 ## Getting Started
