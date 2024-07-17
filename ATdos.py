@@ -323,7 +323,7 @@ def main():
         parser = ArgumentParser(
         usage='./%(prog)s -t [target] -p [port] -t [number threads]',
         formatter_class=RawTextHelpFormatter,
-        prog='Overload-DoS.py',
+        prog='ATdos.py',
         description=cprint(title,'white',attrs=['bold']),
         epilog='''
 Example:
