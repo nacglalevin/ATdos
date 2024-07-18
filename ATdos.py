@@ -1,3 +1,11 @@
+"""
+========================================
+Name:ATdos Author: Lalevin Martin
+ Mailbox: rsjdcl@gmail.com                                              
+ Github: http://github.com/nacglalevin
+Written in 2024-7-17
+==================NACG==================
+"""
 version="1.0"
 title = '''
         _______ _____   ____   _____ 
