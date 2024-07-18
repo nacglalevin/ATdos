@@ -1,6 +1,6 @@
 version="1.0"
 title = '''
-         _______ _____   ____   _____ 
+        _______ _____   ____   _____ 
      /\|__   __|  __ \ / __ \ / ____|
     /  \  | |  | |  | | |  | | (___  
    / /\ \ | |  | |  | | |  | |\___ \ 
@@ -8,8 +8,8 @@ title = '''
  /_/    \_\_|  |_____/ \____/|_____/ 
                                      
                                                                          
-            Developed by Lalevin| @codingplanets                          
-                  https://github.com/codingplanets/Overload-DoS
+            Developed by Lalevin Martin| @nacglalevin                        
+                  https://github.com/nacglalevin/ATdos
                           Version: '''+version+'''
 '''
 
