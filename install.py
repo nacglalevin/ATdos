@@ -1,3 +1,11 @@
+"""
+========================================
+Name:ATdos Author: Lalevin Martin
+ Mailbox: rsjdcl@gmail.com                                              
+ Github: http://github.com/nacglalevin
+Written in 2024-7-17
+==================NACG==================
+"""
 import os, sys, time
 
 if os.name == 'posix':
